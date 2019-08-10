@@ -5,8 +5,8 @@ remote_theme: fongandrew/hydeout
 
 # Setup
 title:            blog.
-tagline:          'A technical blog for Christian'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+tagline:          ''
+description:      'A technical blog for Christian/'
 url:              https://crobinson96.github.io
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"

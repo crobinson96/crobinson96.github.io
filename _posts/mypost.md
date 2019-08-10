@@ -9,7 +9,6 @@ tags:
   - edge case
   - lists
   - markup
-permalink: mypost/
 ---
 
 Hello world.

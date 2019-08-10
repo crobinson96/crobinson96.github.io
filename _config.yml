@@ -5,7 +5,6 @@ remote_theme: fongandrew/hydeout
 
 # Setup
 title:            blog.
-tagline:          ''
 description:      'A technical blog for Christian.'
 url:              https://crobinson96.github.io
 baseurl:          '/'

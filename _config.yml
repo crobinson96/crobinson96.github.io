@@ -15,7 +15,7 @@ baseurl:          '/'
                   # sidebar_blog_link below.
 
 author:
-  name:           'Christian'
+  name:           'Christian Robinson'
   url:            https://twitter.com/crobinson96
 
 paginate:         5

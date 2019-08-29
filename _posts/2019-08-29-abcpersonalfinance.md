@@ -65,7 +65,7 @@ Quite often there are linked savings accounts to current accounts that let you s
 
 This website groups all the information about a wide range of financial products together, making it quick and easy to find the best products suited to your needs. In particular I would use it for their savings account section (easy access for emergency fund and linked savers otherwise), LISA accounts, Stocks and shares accounts and even their free guide documenting the first-time buyer process.
 
-I hope some of these points have helped you, I tried to keep it brief as to not bore the ready with fine-details of each product. Just follow these basics before asking people for "investment" ideas and you will be fine.
+I hope some of these points have helped you, I tried to keep it brief as to not bore the reader with fine-details of each product. Just follow these basics before asking people for "investment" ideas or the next get rich quick scheme and you will be fine.
 
 
 

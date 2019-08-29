@@ -39,7 +39,7 @@ Any ISA is just a savings account (or stocks & shares account) that has a tax-fr
 
 ### 4. Apply for a credit card
 
-Only if you have self-contol do I reccomend this step. Get a basic credit card and set up a direct debit for it to be paid of IN FULL every month. This will help build your credit score for when applying for a mortgage, do not get roped into the perks and rewards of these cards as the interest charge trumps the perks all day every day.
+Only if you have self-control do I reccomend this step. Get a basic credit card and set up a direct debit for it to be paid of IN FULL every month. This will help build your credit score for when applying for a mortgage, do not get roped into the perks and rewards of these cards as the interest charge trumps the perks all day every day.
 
 ### 5. Open a stocks and shares ISA.
 

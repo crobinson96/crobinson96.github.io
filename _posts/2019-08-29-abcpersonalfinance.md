@@ -59,7 +59,7 @@ With the Current account switch service in place in the UK switching your curren
 
 ### 3. Find the best rates
 
-Quite often there are linked savings accounts to current accounts that let you save say £300 a month at a 5% interest. These are typically a lot better than other savings accounts on the market. Bare in mind though that you typically have to lock money away for this rate until the end of the year.
+Quite often there are linked savings accounts to current accounts that let you save say £300 a month at a 5% interest. These are a lot better than other savings accounts on the market. Bare in mind though that you typically have to lock money away for this rate until the end of the year.
 
 ### 4. Use [www.moneysavingexpert.com](https://www.moneysavingexpert.com)
 

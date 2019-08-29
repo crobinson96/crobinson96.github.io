@@ -47,7 +47,7 @@ If you don't want to save for a house and don't have any short-term goals, you m
 
 ## Tips and tricks
 
-I have a few tips that work well for me that I think you should try out:
+I have a few tips that work well for me:
 
 ### 1. Automate your savings
 

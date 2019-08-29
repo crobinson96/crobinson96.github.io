@@ -17,7 +17,7 @@ It is quite common to find people who have never had an income every month at un
 - Don't buy rounds for random people in the bar.
 - Don't buy anything you don't have 2 or more use cases for.
 
-And so on, I hope you get the point. I will leave this section with a quote by Will Rogers, "Too many people spend money they haven't earned to buy things they don't want to impress people they don't like".
+And so on, I hope you get the point. I will leave this section with a quote by Will Rogers, "Too many people spend money they haven't earned, to buy things they don't want, to impress people they don't like".
 
 ## The Beginner Road Map
 

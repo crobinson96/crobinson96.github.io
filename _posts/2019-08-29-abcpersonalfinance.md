@@ -9,7 +9,7 @@ I have recently been asked on a few occasions what I do, upon replying "I work i
 
 ## The state of the nation
 
-It is quite common to find people who have never had an income every month at university to spend lavishly as if too make up for lost time. Find out what your current situation is by analysing your income and outgoings, typically app-based banking provide good breakdowns of your spending and for some this can be a shock to how much money you are really spending. As spending is very circumstancial to each person I won't waste time lecturing about your spending habits, rather I will give you a few common mistakes to avoid before proceeding to the next sections. Using Tim Ferris' idea of a "not to do list":
+It is quite common to find people who have never had an income every month at university to spend lavishly as if too make up for lost time. Find out what your current situation is by analysing your income and outgoings, typically app-based banking provide good breakdowns of your spending and for some this can be a shock to how much money you are really spending. As spending is very circumstancial to each person I won't waste time lecturing about your spending habits, rather I will give you a few common mistakes to avoid before proceeding to the next sections. Using Tim Ferris' idea of a ["not to do list"](https://tim.blog/2007/08/16/the-not-to-do-list-9-habits-to-stop-now/):
 
 - Don't buy a new german car on finance, use cash and buy second-hand.
 - Don't buy coffee from starbucks everyday.
@@ -61,7 +61,7 @@ With the Current account switch service in place in the UK switching your curren
 
 Quite often there are linked savings accounts to current accounts that let you save say £300 a month at a 5% interest. These are typically a lot better than other savings accounts on the market. Bare in mind though that you typically have to lock money away for this rate until the end of the year.
 
-### 4. Use moneysavingexpert.com
+### 4. Use [www.moneysavingexpert.com](https://www.moneysavingexpert.com)
 
 This website groups all the information about a wide range of financial products together, making it quick and easy to find the best products suited to your needs. In particular I would use it for their savings account section (easy access for emergency fund and linked savers otherwise), LISA accounts, Stocks and shares accounts and even their free guide documenting the first-time buyer process.
 

@@ -5,7 +5,7 @@ date: 2019-08-29 18:36:31 +0000
 permalink: /the_abc_of_personal_finance
 ---
 
-I have recently been asked on a few occasions what I do, upon replying "I work in a finance company" I usually get asked on advice for investments. I go on to explain how I am not in an investing/trading type of role then, out of curiousity, I ask for a deeper insight into how the person manages their money. On almost all occassions I find out they are lacking basic personal finance skills, so I've decided to write this short article to demistify the basics of personal finance and give some actionable information instead of the typical philosophical answers given by many online. I am unsure if it is a universal financial illiteracy problem or just amongst the graduates I have met, but as I am a graduate myself I will write from the point of view of a graduate looking to get their personal finance in order.
+I have recently been asked on a few occasions what I do, upon replying "I work in a finance company" I usually get asked on advice for investments. I go on to explain how I am not in an investing/trading type of role then, out of curiousity, I ask for a deeper insight into how the person manages their money. On almost all occassions I find out they are lacking basic personal finance skills, so I've decided to write this short article to demystify the basics of personal finance and give some actionable information instead of the typical philosophical answers given by many online. I am unsure if it is a universal financial illiteracy problem or just amongst the graduates I have met, but as I am a graduate myself I will write from the point of view of a graduate looking to get their personal finance in order.
 
 ## The state of the nation
 
@@ -19,17 +19,17 @@ It is quite common to find people who have never had an income every month at un
 
 And so on, I hope you get the point. I will leave this section with a quote by Will Rogers, "Too many people spend money they haven't earned, to buy things they don't want, to impress people they don't like".
 
-## The Beginner Road Map
+## The beginner road map
 
 Now you have assessed your personal situation you can decide how much money you can save/invest each month. The first mistake I see a lot of people do is try to save or invest whilst still in debt (not including student loans), such as credit cards, car loans, personal loans etc. The reason this is a mistake is that the interest is A LOT higher on these debts than anything you can make investing. I honestly think for graduates this shouldn't be too much of an issue as you probably don't have the credit score to borrow much cash at university. Now we can go through the road map on what to do with the cash you want to save:
 
 ### 1. Get 3-6 months of expenses saved as an emergency fund.
 
-Life feels comfortable when you're covered for the worst case scenario, eg. losing a job, car engine breaks. Some people reccomend getting more than 6 months expenses but as a graduate I think 3-6 months is fine, if you were trying to start your own business I would aim for more. Use a separate savings account for this money.
+Life feels comfortable when you're covered for the worst case scenario, eg. losing a job, car engine breaks. Some people recommend getting more than 6 months expenses but as a graduate I think 3-6 months is fine, if you were trying to start your own business I would aim for more. Use a separate savings account for this money.
 
 ### 2. Max out your employers pension matching scheme (if there is one).
 
-If you are lucky enough to have an employer matching scheme for pension contributions then take full advantage of it. It is literally free money you are throwing away if you don't. If you aren't fortunate to have one of these schemes I would strongly consider investing into a pension, probably anywhere from 5-10% of your pre-tax salary would be a good target. Some reccomend dividing your age when you start your pension by 2 and using that as your contribution %, eg. 22 y/o would invest 11% of pre-tax income. Reducing your tax bill with pension contributions is extremely efficient (especially for top-tier tax payers) and I doubt this luxury will be around forever so make the most of it while you can.
+If you are lucky enough to have an employer matching scheme for pension contributions then take full advantage of it. It is literally free money you are throwing away if you don't. If you aren't fortunate to have one of these schemes I would strongly consider investing into a pension, probably anywhere from 5-10% of your pre-tax salary would be a good target. Some recommend dividing your age when you start your pension by 2 and using that as your contribution %, eg. 22 y/o would invest 11% of pre-tax income. Reducing your tax bill with pension contributions is extremely efficient (especially for top-tier tax payers) and I doubt this luxury will be around forever so make the most of it while you can.
 
 This is where the left over cash saving can get blurry based on personal circumstances, for most I'd assume they want to save to buy a house in the long-term so I will go over some ideas around that now.
 
@@ -39,11 +39,11 @@ Any ISA is just a savings account (or stocks & shares account) that has a tax-fr
 
 ### 4. Apply for a credit card
 
-Only if you have self-control do I reccomend this step. Get a basic credit card and set up a direct debit for it to be paid of IN FULL every month. This will help build your credit score for when applying for a mortgage, do not get roped into the perks and rewards of these cards as the interest charge trumps the perks all day every day.
+Only if you have self-control do I recommend this step. Get a basic credit card and set up a direct debit for it to be paid of IN FULL every month. This will help build your credit score for when applying for a mortgage, do not get roped into the perks and rewards of these cards as the interest charge trumps the perks all day every day.
 
 ### 5. Open a stocks and shares ISA.
 
-If you don't want to save for a house and don't have any short-term goals, you may consider opening a stocks and shares ISA. It is usually reccomended to invest in some index fund because the risk is divserified, you hold a piece of all the companies instead of having all your eggs in one basket. Also don't try and time the market..it won't work. Just drip feed money into the account every month and come back to it in 5+ years time.
+If you don't want to save for a house and don't have any short-term goals, you may consider opening a stocks and shares ISA. It is usually recommended to invest in some index fund because the risk is diversified, you hold a piece of all the companies instead of having all your eggs in one basket. Also don't try and time the market..it won't work. Just drip feed money into the account every month and come back to it in 5+ years time.
 
 ## Tips and tricks
 
@@ -59,7 +59,7 @@ With the Current account switch service in place in the UK switching your curren
 
 ### 3. Find the best rates
 
-Quite often there are linked savings accounts to current accounts that let you save say £300 a month at a 5% interest. These are a lot better than other savings accounts on the market. Bare in mind though that you typically have to lock money away for this rate until the end of the year.
+Quite often there are linked savings accounts to current accounts that let you save say £300 a month at a 5% interest. These are a lot better than other savings accounts on the market. Bear in mind though that you typically have to lock money away for this rate until the end of the year.
 
 ### 4. Use [www.moneysavingexpert.com](https://www.moneysavingexpert.com)
 

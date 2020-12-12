@@ -4,7 +4,7 @@ highlighter:      rouge
 remote_theme: fongandrew/hydeout
 
 # Setup
-title:            Train. Eat. Sleep.
+title:            Welcome to Orion.
 description:      'A technical blog for Christian.'
 url:              https://crobinson96.github.io
 baseurl:          '/'
